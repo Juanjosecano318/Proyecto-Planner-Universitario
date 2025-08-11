@@ -4,7 +4,9 @@
 Este módulo forma parte de un sistema universitario orientado a mejorar el seguimiento académico y la comunicación entre estudiantes y profesores.  
 El **Planner-Universitario** integra funciones de gestión de actividades, visualización de progreso, generación de alertas y recomendaciones personalizadas con soporte de Inteligencia Artificial.  
 
-Su objetivo principal es optimizar la organización, detectar de forma temprana problemas de desempeño y promover una comunicación efectiva en el entorno educativo.
+
+Objetivo:
+Desarrollar una plataforma modular de software que integre funcionalidades inteligentes para optimizar la gestión académica y administrativa en instituciones de educación superior, permitiendo la automatización de procesos, el seguimiento personalizado del desempeño estudiantil, la generación de alertas tempranas y la provisión de recomendaciones basadas en inteligencia artificial, con el fin de mejorar la toma de decisiones y la comunicación entre estudiantes y docentes.
 
 ---
 
